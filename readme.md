@@ -1,7 +1,6 @@
 DayZ 1.7.7.1 Custom Loot Tables
-
-Installation instructions
-
+============
+<b>Installation instructions</b>
 1. Download the folder and open it up.
 2. Open init.sqf and find dayZ_instance = 9999; change 9999 to your instance id.
 3. Follow the steps from http://opendayz.net/threads/tutorial-custom-loot-tables-and-adjusting-spawn-rates.11589/#post-56800 to configure the rest of the loot spawning.
